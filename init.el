@@ -153,7 +153,7 @@
 ;;
 ;;
 ;;
-(require 'browse-kill-ring+)
+;(require 'browse-kill-ring+)
 
 ;;----------------------------------------------------------------------------
 ;; Allow users to provide an optional "init-local" containing personal settings
